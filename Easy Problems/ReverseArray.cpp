@@ -10,4 +10,4 @@ void reverse(int arr[], int n){
 	low++;
 	high--;
 	}
-}
+};
